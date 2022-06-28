@@ -19,6 +19,7 @@
 
 #include "Arduino.h"
 #include "../../config.h"
+#include <wiring_private.h>
 
 #ifdef __cplusplus
  extern "C" {
